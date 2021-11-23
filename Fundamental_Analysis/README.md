@@ -1,5 +1,4 @@
 # FUNDAMENTAL Analysis - AIRLINES COMPANIES
  Analysis of airlines companies
 
-
-![getty_what_is_fintech_080220pm_jpg_yvtZYBW2](https://user-images.githubusercontent.com/58246780/132839461-afaf8620-e415-429f-aa47-092c5c34123b.jpg)
+![Breeze-Airways-Plane](https://user-images.githubusercontent.com/58246780/143001876-434d56aa-5553-4c04-ac0f-d5d3aad38ace.jpeg)
